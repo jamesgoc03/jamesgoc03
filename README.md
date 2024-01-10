@@ -1,3 +1,23 @@
-# Hola, bienvenidos a mi perfil de GitHub.
+# Hi and Welcome to my GitHub profile!
 
-Mi nombre es James Alejandro Gómez, soy estudiante de ingeniería en software, este solo es un archivo de prueba, pronto subire el archivo terminado.
+My name is James Alejandro Gómez Cuervo, I'm a Trainee Java developer at Globant and a software Engineer Student, I really enjoy developing Java applications and I'm always trying of improve my skils and my quality of software. 
+
+
+
+**My skills are:**
+
+* Java intermediate
+
+* Spring Framework
+
+* Spring Boot
+
+* Basic DataBase desing
+
+* SQL with SQL Server
+
+* Git and GitHub
+
+* Work Flow with GitFlow
+
+* Basic HTML and CSS layout
